@@ -1,0 +1,17 @@
+.hero-btn{
+    display: inline-block;
+    text-decoration: none;
+    color: salmon;
+    border: 15px solid black;
+    padding: 12px 34px;
+    font-size: 50px;
+    background: transparent;
+    position: relative;
+    cursor: pointer;
+
+}
+.hero-btn:hover{
+    border: 15px solid red;
+    background: lavender;
+    transition: .5s;
+}
